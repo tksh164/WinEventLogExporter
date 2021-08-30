@@ -1,4 +1,7 @@
 # WinEventLogExporter
+
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/tksh164/WinEventLogExporter)
+
 Windows event log export script by PowerShell.
 
 ## License
